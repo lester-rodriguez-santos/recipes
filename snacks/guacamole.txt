@@ -5,6 +5,7 @@ Ingredients:
 - salt
 - lime
 - tomatos
+- jalapeno
 
 Instructions:
 1. mash avocados
@@ -13,4 +14,5 @@ Instructions:
 4. add salt
 5. squeez lime
 6. add tomatos
+7. add jalapeno
 
